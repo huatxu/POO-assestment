@@ -1,0 +1,7 @@
+public enum CLASES {
+		PROGRAMACION,
+		SISTEMAS,
+		ENTORNOS,
+		FOL,
+		BASES
+	}
